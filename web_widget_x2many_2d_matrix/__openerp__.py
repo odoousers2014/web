@@ -20,8 +20,9 @@
 ##############################################################################
 {
     "name": "2D matrix for x2many fields",
-    "version": "1.0",
-    "author": "Therp BV",
+    "version": "8.0.1.0.0",
+    "author": "Therp BV, "
+              "Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Hidden/Dependency",
     "summary": "Show list fields as a matrix",
